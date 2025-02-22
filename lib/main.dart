@@ -5,7 +5,7 @@ void main() {
   runApp(
     DevicePreview(
       isToolbarVisible: false,
-      defaultDevice: Devices.ios.iPhone13ProMax,
+      defaultDevice: Devices.android.samsungGalaxyS20,
       builder: (context) => MyApp(),
     ),
   );
