@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487258896141",
+    "project_id": "app-on-web-d9829",
+    "storage_bucket": "app-on-web-d9829.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487258896141:android:01a4bd125df5cbd0582244",
+        "android_client_info": {
+          "package_name": "com.example.app_on_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa54GJFTUPueBtgeN1EhPx3QVONaF1xlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
